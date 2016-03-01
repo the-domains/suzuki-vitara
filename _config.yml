@@ -1,5 +1,8 @@
+name: Suzuki Vitara
+favicon: null
+layout_spectrum: 0.9786968
+typography_spectrum: 0.3577694
 title: 'SUZUKI VITARA # AUTOPADOVA'
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.3479079569224268
-  brandStrength: 0.2491681061219424
-  rhythmicContrast: 0.2096064072102308
-  brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  lightness: 0.0923956788610667
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: Suzuki Vitara
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.3577694
-layout_spectrum: 0.9786968
+color:
+  brandColors:
+    - '#ffffff'
+    - '#792388'
+    - '#e7c3ed'
+    - '#297e1b'
+    - '#6ca264'
+  brandStrength: 0.2491681061219424
+  lightness: 0.0923956788610667
+  saturation: 0.3479079569224268
+  rhythmicContrast: 0.2096064072102308
+purpose: []
