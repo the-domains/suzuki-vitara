@@ -2,7 +2,7 @@ name: Suzuki Vitara
 favicon: null
 layout_spectrum: 0.9786968
 typography_spectrum: 0.3577694
-title: 'SUZUKI VITARA # AUTOPADOVA'
+title: 'SUZUKI # AUTOPADOVA'
 collections:
   - index:
       path: /
