@@ -19,7 +19,7 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: Suzuki Vitara
+name: 'Suzuki # Autopadova'
 cta:
   domain: null
   bucket: null
@@ -42,4 +42,5 @@ collections:
       format: rss
       number: 10
 title: 'SUZUKI # AUTOPADOVA'
+description: dealer Suzuki
 purpose: []
